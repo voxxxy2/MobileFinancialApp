@@ -3,6 +3,8 @@
 A 100% **offline, on-device personal finance app** built with **React Native + Expo (TypeScript)** and **SQLite (`expo-sqlite`)**. No servers, no cloud setup, no internet required. Your financial data stays privately on your device.
 
 ---
+<img width="1280" height="709" alt="image" src="https://github.com/user-attachments/assets/21a578d0-be26-4476-b645-cd38d362b562" />
+<img width="1280" height="711" alt="image" src="https://github.com/user-attachments/assets/4d9a196f-6940-42f2-ae3d-e3f2acb9e8e3" />
 
 ## 🌟 Features
 
